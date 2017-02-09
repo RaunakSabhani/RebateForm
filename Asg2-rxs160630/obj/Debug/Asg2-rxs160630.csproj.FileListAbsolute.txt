@@ -1,0 +1,9 @@
+c:\users\rauna\onedrive\documents\visual studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\bin\Debug\Asg2-rxs160630.exe.config
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2-rxs160630.csprojResolveAssemblyReference.cache
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2_rxs160630.Properties.Resources.resources
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2-rxs160630.csproj.GenerateResource.Cache
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\bin\Debug\Asg2-rxs160630.exe
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\bin\Debug\Asg2-rxs160630.pdb
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2-rxs160630.exe
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2-rxs160630.pdb
+C:\Users\rauna\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-rxs160630\Asg2-rxs160630\obj\Debug\Asg2_rxs160630.RebateForm.resources
